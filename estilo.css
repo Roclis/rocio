@@ -1,0 +1,44 @@
+table, th, td{
+	border: 1px solid green;
+	border-collapse: collapse; 
+	width: 60%;
+}
+table{
+	width: 60%;
+	text-align: center; 
+	border-right: 20px;
+}
+body{
+	background-image: url(f.html);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+div{
+	text-align: center;
+}
+h1{
+	text-align:center;
+}
+p{
+	text-align:auto;
+	text-decoration: auto;
+}
+div#tabla{
+	margin-top:10px;
+}
+p{ 
+	color:red;
+	margin-left: 30px;
+}
+div#Hogar{
+	display: flex;
+	justify-content: left;
+	align-items: left;
+
+}
+div#Vestuario{
+	display: flex;
+	justify-content: left;
+	align-items: left;
+
+}
